@@ -112,6 +112,7 @@ a:hover { color: var(--blue-dark); }
   background: rgba(255,255,255,.05);
 }
 .hero h1 { color: #fff; max-width: 16ch; margin-bottom: 20px; }
+.hero h1 .m2s { color: #63c2ff; font-weight: 800; }
 .hero p.lead { font-size: 1.18rem; color: #cfe0f2; max-width: 62ch; margin-bottom: 32px; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 14px; }
 
