@@ -1,6 +1,6 @@
-# Surface Engineering Lab — Website
+# M2S Lab — Website
 
-Redesigned website for the Surface Engineering Laboratory (Thin Film Lab),
+Redesigned website for the M2S Laboratory (Thin Film Lab),
 Department of Mechatronics Engineering, Gyeongsang National University.
 
 ## Pages

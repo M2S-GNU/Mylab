@@ -1,5 +1,5 @@
 /* =========================================================
-   Surface Engineering Lab — Shared Stylesheet
+   M2S Lab — Shared Stylesheet
    Deep blue academic theme
    ========================================================= */
 
@@ -68,7 +68,7 @@ a:hover { color: var(--blue-dark); }
   width: 40px; height: 40px; border-radius: 10px; flex: none;
   background: linear-gradient(135deg, var(--navy), var(--blue));
   display: grid; place-items: center; color: #fff; font-weight: 800;
-  font-size: 1.05rem; letter-spacing: .5px; box-shadow: var(--shadow-sm);
+  font-size: .82rem; letter-spacing: .2px; box-shadow: var(--shadow-sm);
 }
 .brand-text { display: flex; flex-direction: column; line-height: 1.15; }
 .brand-text .name { font-weight: 800; color: var(--navy); font-size: 1.02rem; letter-spacing: -.01em; }
