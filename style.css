@@ -228,8 +228,8 @@ section.tight { padding: 56px 0; }
 .alum-now { color: var(--muted); font-size: .92rem; }
 .alum-now strong { color: var(--text); font-weight: 700; }
 
-/* head-and-shoulders framing for member & alumni photos */
-.member .avatar img, .alum .avatar img { object-position: center 18%; }
+/* member & alumni photos are pre-normalized square crops */
+.member .avatar img, .alum .avatar img { object-position: center; }
 
 /* ---------- Projects ---------- */
 .project {
