@@ -209,16 +209,16 @@ section.tight { padding: 56px 0; }
 
 /* member placeholder cards */
 .member { text-align: center; }
-.member .avatar { width: 110px; aspect-ratio: 1/1; border-radius: 50%; margin: 0 auto 16px; }
-.member .avatar .initials { font-size: 2rem; }
+.member .avatar { width: 140px; aspect-ratio: 448/576; border-radius: 14px; margin: 0 auto 16px; }
+.member .avatar .initials { font-size: 2.2rem; }
 .member h4 { margin: 0 0 3px; font-size: 1.05rem; color: var(--ink); }
 .member .role { color: var(--blue); font-weight: 600; font-size: .9rem; }
 .member .topic { color: var(--muted); font-size: .86rem; margin-top: 6px; }
 
 /* alumni cards */
 .alum { text-align: center; }
-.alum .avatar { width: 108px; aspect-ratio: 1/1; border-radius: 50%; margin: 0 auto 16px; }
-.alum .avatar .initials { font-size: 2rem; }
+.alum .avatar { width: 140px; aspect-ratio: 448/576; border-radius: 14px; margin: 0 auto 16px; }
+.alum .avatar .initials { font-size: 2.2rem; }
 .alum-degree {
   display: inline-block; background: var(--blue-light); color: var(--blue-dark);
   font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase;
